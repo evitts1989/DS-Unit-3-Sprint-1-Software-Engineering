@@ -263,11 +263,13 @@ career here, you'll have to answer the following:
   when others do the same for your code?
   I try to give alot of attention to indentation and spelling. I would appreciate the same formality in the review of my code.
   
+  I try to be aware of my indentation and spelling. I would like for others do the same when reviewing my codes. 
+  
 - We have an awful lot of computers here, and it gets pretty confusing with
   slightly different things running on all of them. How could containers help us
   improve this situation?
   
-  Containers help to simplify the operation by assisting the platform independence. They also assist in the improvement of developer productivity and differentiate data processing techniques.
+  Containers make it easier to simplify the operation by assisting  platform independence. Containers also help to improve  developer productivity and differentiate data processing techniques.
 
 Answer both of these questions (baseline ~5 sentences) here in text.
 
