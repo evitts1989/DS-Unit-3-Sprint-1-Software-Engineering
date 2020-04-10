@@ -261,6 +261,7 @@ career here, you'll have to answer the following:
 - What, in your opinion, is an important part of code reviews? That is, what is
   something you pay attention to when you review code, and that you appreciate
   when others do the same for your code?
+  
   I try to give alot of attention to indentation and spelling. I would appreciate the same formality in the review of my code.
   
 - We have an awful lot of computers here, and it gets pretty confusing with
